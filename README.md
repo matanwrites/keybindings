@@ -9,7 +9,7 @@
 – Insert line below: ctrl + o
 – Insert line above: ctrl + shift + o
 
-##Insertion and indentation
+## Insertion and indentation
 
 <key>Insert New Line Below</key>
 <string>moveToEndOfLine:, insertNewline:</string>
@@ -20,7 +20,7 @@
 
 
 
-##Deletion
+## Deletion
 
 <key>Delete Current Line</key>
 <string>selectLine:, delete:</string>
